@@ -41,11 +41,11 @@ Ejemplo: “Respirar antes de responder”.
 
 
 🤝 Habilidad que quiero practicar
-Ejemplo: Escucha activa, comunicación no violenta, etc.
+Ejemplo: Escucha activa, comunicación no violenta, etc.        
 Quiero aprender a entender el punto de vista del otro sin interrumpir ni asumir lo peor.
 
 🧪 Próximo conflicto que puedo practicar resolver mejor
-Ejemplo: Una discusión con un amigo o un desacuerdo en clase.
+Ejemplo: Una discusión con un amigo o un desacuerdo en clase.     
 Tengo un pendiente con un compañero con quien tuvimos diferencias en la organización de un trabajo en equipo.
 Planeo hablar con él de forma calmada para aclarar el malentendido y encontrar un mejor modo de colaborar.
 
